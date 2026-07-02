@@ -1,0 +1,82 @@
+[
+  {
+    "first_name": "Eliel",
+    "last_name": "Diaz",
+    "cedula": "00100100101",
+    "email": "diazamadorelielasaf@gmail.com",
+    "phone": "8091234567",
+    "password": "eliel123"
+  },
+  {
+    "first_name": "Danely",
+    "last_name": "Pamela",
+    "cedula": "00100100102",
+    "email": "danelypamela@gmail.com",
+    "phone": "8091112233",
+    "password": "danely123"
+  },
+  {
+    "first_name": "Darianny",
+    "last_name": "Luciano",
+    "cedula": "00100100103",
+    "email": "dariannyluciano@gmail.com",
+    "phone": "8092223344",
+    "password": "darianny123"
+  },
+  {
+    "first_name": "Jose",
+    "last_name": "Beltre",
+    "cedula": "00100100104",
+    "email": "josebeltre@gmail.com",
+    "phone": "8093334455",
+    "password": "jose123"
+  },
+  {
+    "first_name": "Kelvin",
+    "last_name": "Mercedes",
+    "cedula": "00100100105",
+    "email": "kelvinmercedes@gmail.com",
+    "phone": "8094445566",
+    "password": "kelvin123"
+  },
+  {
+    "first_name": "Maxwell",
+    "last_name": "Aybar",
+    "cedula": "00100100106",
+    "email": "maxwellaybar@gmail.com",
+    "phone": "8095556677",
+    "password": "maxwell123"
+  },
+  {
+    "first_name": "Aaron",
+    "last_name": "Montero",
+    "cedula": "00100100107",
+    "email": "aaronmontero@gmail.com",
+    "phone": "8096667788",
+    "password": "aaron123"
+  },
+  {
+    "first_name": "Pedro",
+    "last_name": "Gomez",
+    "cedula": "00100100108",
+    "email": "pedrogomez@gmail.com",
+    "phone": "8097778899",
+    "password": "pedro123"
+  },
+  {
+    "first_name": "Ana",
+    "last_name": "Reyes",
+    "cedula": "00100100109",
+    "email": "anareyes@gmail.com",
+    "phone": "8098889900",
+    "password": "ana123"
+  },
+  {
+    "first_name": "Luis",
+    "last_name": "Soto",
+    "cedula": "00100100110",
+    "email": "luissoto@gmail.com",
+    "phone": "8099990011",
+    "password": "luis123"
+  }
+]
